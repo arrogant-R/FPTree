@@ -11,4 +11,4 @@ pip install -r requirements.txt
 ```
 如需安装其他版本的pygraphviz，可以到[https://github.com/CristiFati/Prebuilt-Binaries/tree/master/PyGraphviz](https://github.com/CristiFati/Prebuilt-Binaries/tree/master/PyGraphviz)下载对应版本的whl文件，并安装。
 ## Demo
-[基于fp-tree实现购物篮可视化分析](基于fp-tree实现购物篮分析【可视化】.md)
+[基于fp-tree实现购物篮可视化分析](demo/基于fp-tree实现购物篮分析【可视化】.md)
